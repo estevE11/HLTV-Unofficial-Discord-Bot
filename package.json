@@ -1,0 +1,23 @@
+{
+  "name": "hltv-discord-bot",
+  "version": "1.0.0",
+  "description": "An unofficial discord bot to post every hltv news to a server's chanel.",
+  "main": "main.js",
+  "scripts": {
+    "test": "run main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevE11/HLTV-Unofficial-Discord-Bot.git"
+  },
+  "author": "Roger Esteve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevE11/HLTV-Unofficial-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/estevE11/HLTV-Unofficial-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "hltv": "^2.12.0"
+  }
+}
